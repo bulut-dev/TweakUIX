@@ -6,8 +6,8 @@
     <uri>https://raw.githubusercontent.com/builtbybel/TweakUIX/main/features/app.xml</uri>
    </Feature>
    <Feature>
-     <id>Help file</id>
-	 <description>Short Guide to Tweak UIX</description>
+     <id>Yardım</id>
+	 <description>kısa açıklama Tweak UIX</description>
 	<dev>Builtbybel</dev>
     <uri>https://raw.githubusercontent.com/builtbybel/TweakUIX/main/features/help.txt</uri>
    </Feature>
