@@ -1,7 +1,7 @@
 <TweakUIX>
   <Feature>
-     <id>Features signature file</id>
-	 <description>All features offered here are obtained from this file</description>
+     <id>Özellikler imza dosyası</id>
+	 <description>Sunulan özelliklerin tümünün alındığı dosya</description>
 	<dev>Builtbybel</dev>
     <uri>https://raw.githubusercontent.com/builtbybel/TweakUIX/main/features/app.xml</uri>
    </Feature>
@@ -24,7 +24,7 @@
     <uri>https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/firewall/spy.txt</uri>
    </Feature>
      <Feature>
-     <id>Template for installing essential apps</id>
+     <id>Hızlıca Temel uygulamaları yükleyebilirsiniz</id>
 	 <description>The great eight: 7zip, Bleachbit, IrfanView, Firefox, Notepad++, ShareX, SumatraPDF, VLC Player</description>
 	<dev>Builtbybel</dev>
     <uri>https://raw.githubusercontent.com/builtbybel/TweakUIX/main/features/packages.app</uri>
@@ -36,8 +36,8 @@
     <uri>https://raw.githubusercontent.com/builtbybel/TweakUIX/main/features/uninstaller.app</uri>
    </Feature>
          <Feature>
-     <id>Windows 10 Template</id>
-	 <description>Loads a preset of Tweaks available for Windows 10</description>
+     <id>Windows 10 Şablonu</id>
+	 <description>Windows 10 için tweak ön ayarlarını yüklemenizi sağlar</description>
 	<dev>Builtbybel</dev>
     <uri>https://raw.githubusercontent.com/builtbybel/TweakUIX/main/features/Windows10_Template.tuix</uri>
    </Feature>
