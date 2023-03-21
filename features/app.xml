@@ -30,8 +30,8 @@
     <uri>https://raw.githubusercontent.com/builtbybel/TweakUIX/main/features/packages.app</uri>
    </Feature>
       <Feature>
-     <id>Template for debloating Windows 10 and Windows 11</id>
-	 <description>This willl fetch a community debloating template</description>
+     <id>Windows 10 ve Windows 11'i ayıklamak için şablon</id>
+	 <description>Bu, bir topluluk tasfiye şablonu getirecektir</description>
 	<dev>Builtbybel</dev>
     <uri>https://raw.githubusercontent.com/builtbybel/TweakUIX/main/features/uninstaller.app</uri>
    </Feature>
@@ -42,32 +42,32 @@
     <uri>https://raw.githubusercontent.com/builtbybel/TweakUIX/main/features/Windows10_Template.tuix</uri>
    </Feature>
          <Feature>
-     <id>Gaming Template</id>
-	 <description>Recommended Tweaks for a better Gaming Experience</description>
+     <id>Oyun Şablonu</id>
+	 <description>Daha iyi bir Oyun Deneyimi için Önerilen Düzeltmeler</description>
 	<dev>Builtbybel</dev>
     <uri>https://raw.githubusercontent.com/builtbybel/TweakUIX/main/features/Gaming_Template.tuix</uri>
    </Feature>
      <Feature>
-     <id>Bypass Edge as default handle for web searches (Plugin)</id>
-	 <description>This plugin allows you to bypass Edge as default handle for web searches </description>
+     <id>Web aramaları için Edge'i varsayılan tanıtıcı olarak atla(Plugin)</id>
+	 <description>Bu eklenti, Edge'i web aramaları için varsayılan olarak atlamanıza izin verir </description>
 	<dev>AveYo</dev>
     <uri>https://raw.githubusercontent.com/builtbybel/TweakUIX/main/features/plugins/Bypass_Edge_default_handler.ps1</uri>
    </Feature>
       <Feature>
-     <id>Clean up Windows (Plugin)</id>
-	 <description>This will use classic Disk clean-up utility aka Cleanmgr.exe to clear unnecessary files from your computer's hard disk </description>
+     <id>Windows'u temizleyin (Plugin)</id>
+	 <description>Bu, bilgisayarınızın sabit diskindeki gereksiz dosyaları temizlemek için Cleanmgr.exe olarak bilinen klasik Disk temizleme yardımcı programını kullanacaktır.</description>
 	<dev>Builtbybel</dev>
     <uri>https://raw.githubusercontent.com/builtbybel/TweakUIX/main/features/plugins/Clean-up_Windows.ps1</uri>
    </Feature>
    <Feature>
      <id>Telemetry Plugins</id>
-	 <description>This will install plugins to remove telemetry, disable services etc. </description>
+	 <description>Bu, telemetriyi kaldırmak, hizmetleri devre dışı bırakmak vb. için eklentiler yükleyecektir.</description>
 	<dev>Builtbybel</dev>
     <uri>https://raw.githubusercontent.com/builtbybel/TweakUIX/main/features/plugins/Disable-services.ps1,https://raw.githubusercontent.com/builtbybel/TweakUIX/main/features/plugins/Remove_telemetry-third-party-apps.ps1</uri>
    </Feature>
       <Feature>
-     <id>Remove OneDrive (Plugin)</id>
-	 <description>This plugin will remove and disable OneDrive integration.</description>
+     <id>OneDrive Kaldır(Plugin)</id>
+	 <description>Bu eklenti OneDrive entegrasyonunu kaldıracak ve devre dışı bırakacaktır.</description>
 	<dev>W4RH4WK</dev>
     <uri>https://raw.githubusercontent.com/builtbybel/TweakUIX/main/features/plugins/Remove_OneDrive.ps1</uri>
    </Feature>
@@ -84,14 +84,14 @@
     <uri>https://raw.githubusercontent.com/builtbybel/TweakUIX/main/features/plugins/Ultimate_PerformanceMode.ps1</uri>
    </Feature>
     <Feature>
-     <id>AutoLogon (Plugin)</id>
-	 <description>This plugin will enable secure Windows AutoLogon</description>
+     <id>Otomatik Oturum Açma(Plugin)</id>
+	 <description>Bu eklenti güvenli Windows AutoLogon'u etkinleştirecektir</description>
 	<dev>rcmaehl</dev>
     <uri>https://raw.githubusercontent.com/builtbybel/TweakUIX/main/features/plugins/AutoLogon.ps1</uri>
    </Feature>
        <Feature>
      <id>MSEdgeRedirect (Plugin)</id>
-	 <description>This plugin will run a third-party utility with a GUI whichs allows you to redirect News, Search, Widgets, Weather and more to your default Browser.</description>
+	 <description>Bu eklenti, Haberler, Arama, Widget'lar, Hava Durumu ve daha fazlasını varsayılan Tarayıcınıza yönlendirmenize izin veren bir GUI ile üçüncü taraf bir yardımcı program çalıştıracaktır.</description>
 	<dev>rcmaehl</dev>
     <uri>https://raw.githubusercontent.com/builtbybel/TweakUIX/main/features/plugins/MSEdgeRedirect.ps1</uri>
    </Feature>
